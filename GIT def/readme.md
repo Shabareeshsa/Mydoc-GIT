@@ -39,8 +39,19 @@ You can revert back to any previous commit.
 
 Git does not store a separate copy of every file in every commit, but keeps track of changes made in each commit!
 
+### stage and commit
+One of the core functions of Git is the concepts of the Staging Environment, and the Commit.
+
+As you are working, you may be adding, editing and removing files. But whenever you hit a milestone or finish a part of the work, you should add the files to a Staging Environment. Staged files are files that are ready to be committed to the repository you are working on. 
+
+Adding commits keep track of our progress and changes as we work. Git considers each commit change point or "save point". It is a point in the project you can go back to if you find a bug, or want to make a change.
+
+When we commit, we should always include a message. By adding clear messages to each commit, it is easy for yourself (and others) to see what has changed and when.
+
 
 ## What is GitHub?
 Git is not the same as GitHub.
 GitHub makes tools that use Git.
 GitHub is the largest host of source code in the world, and has been owned by Microsoft since 2018.
+
+![screenshot](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
