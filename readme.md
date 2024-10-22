@@ -1,20 +1,4 @@
-# GIT 
-
-Git is a popular version control system. It was created by Linus Torvalds in 2005, and has been maintained by Junio Hamano since then.
-
-### It is used for:
-Tracking code changes
-
-Tracking who made changes
-
-Coding collaboration
-
-### What does Git do?
-Manage projects with Repositories | Clone a project to work on a local copy | Control and track changes with Staging and Committing
-
-Branch and Merge to allow for work on different parts and versions of a project | Pull the latest version of the project to a local copy
-
-Push local updates to the main project
+# GIT commands
 
 ## New repo commands
 create a new repository on the command line
@@ -43,10 +27,12 @@ $ git –version	Shows the current version of your Git
 ```
 
 ## Git Configuration & Setup
+
 ```
 git config --global user.name "Fabio"	Set your username globally.
 git config --global user.email "signups@fabiopacifici.com"	Set your email globally.
 git config –global color.ui auto –	Set to display colored output in the terminal
+>Use global to set the username and e-mail for every repository on your computer. If you want to set the username/e-mail for just the current repo, you can remove global
 git config --list get the config details
 ```
 
