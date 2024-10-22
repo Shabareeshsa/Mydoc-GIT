@@ -17,7 +17,7 @@ Branch and Merge to allow for work on different parts and versions of a project
 Pull the latest version of the project to a local copy
 Push local updates to the main project
 
-``
+```
 Initialize Git on a folder, making it a Repository using `git init` command
 Git now creates a hidden folder to keep track of changes in that folder
 When a file is changed, added or deleted, it is considered modified
@@ -26,7 +26,7 @@ The Staged files are Committed, which prompts Git to store a permanent snapshot 
 Git allows you to see the full history of every commit.
 You can revert back to any previous commit.
 Git does not store a separate copy of every file in every commit, but keeps track of changes made in each commit!
-``
+```
 
 ## What is GitHub?
 Git is not the same as GitHub.
