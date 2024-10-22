@@ -7,11 +7,11 @@ Git is a version control system that can be installed in the local systems.
 Tracking code changes
 Tracking who made changes
 Coding collaboration
-What does Git do?
 
-### Manage projects with Repositories
+### What does Git do?
 
-Clone a project to work on a local copy
+>Manage projects with Repositories
+>Clone a project to work on a local copy
 Control and track changes with Staging and Committing
 Branch and Merge to allow for work on different parts and versions of a project
 Pull the latest version of the project to a local copy
