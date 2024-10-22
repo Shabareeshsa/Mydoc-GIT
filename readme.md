@@ -32,9 +32,9 @@ $ git –version	Shows the current version of your Git
 git config --global user.name "Fabio"	Set your username globally.
 git config --global user.email "signups@fabiopacifici.com"	Set your email globally.
 git config –global color.ui auto –	Set to display colored output in the terminal
->Use global to set the username and e-mail for every repository on your computer. If you want to set the username/e-mail for just the current repo, you can remove global
 git config --list get the config details
 ```
+>Use global to set the username and e-mail for every repository on your computer. If you want to set the username/e-mail for just the current repo, you can remove global
 
 ## Initializing a Repository 
 ```
