@@ -1,13 +1,15 @@
+# GIT and GitHub
+
 Git is a version control system that can be installed in the local systems.
 
-It is used for:
+### It is used for:
 
 Tracking code changes
 Tracking who made changes
 Coding collaboration
 What does Git do?
 
-Manage projects with Repositories
+### Manage projects with Repositories
 
 Clone a project to work on a local copy
 Control and track changes with Staging and Committing
@@ -24,7 +26,7 @@ Git allows you to see the full history of every commit.
 You can revert back to any previous commit.
 Git does not store a separate copy of every file in every commit, but keeps track of changes made in each commit!
 
-What is GitHub?
+## What is GitHub?
 Git is not the same as GitHub.
 GitHub makes tools that use Git.
 GitHub is the largest host of source code in the world, and has been owned by Microsoft since 2018.
